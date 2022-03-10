@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+.orta {
+    text-align: center;
+}
+.orta {
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline;
+  }
+  /*Ürünler html css start*/
+.ürünler {
+    list-style-position: inside
+
+}
+.ürünler {
+    width: 420px;
+    margin: 0 auto;
+  }
+  
+  .ürünler img {
+    width: 250px;
+  }
+  
+  .ürünler li {
+    text-align: center;
+    margin: 75px auto;
+  }
+  /*Ürünler html css end*/
+  
+  /*Ürün html css start*/
+  .ürün {
+    padding-top: 11px;
+  }
+  /*Ürün html css end*/
+  .sol {
+      text-align: left;
+      color: brown;
+      
+  }
+  .los {
+      text-align: justify;
+  }
